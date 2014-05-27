@@ -34,7 +34,7 @@
     "grunt-exorcise": "0.1.0",
     "grunt-ftpush": "0.3.3",
     "grunt-jslint": "^1.1.12",
-    "grunt-karma": "0.8.0",
+    "grunt-karma": "0.8.x",
     "grunt-newer": "0.6.1",
     "grunt-open": "0.2.3",
     "grunt-saucelabs": "^7.0.0",
