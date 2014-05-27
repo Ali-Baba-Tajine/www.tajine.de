@@ -11,3 +11,4 @@ grunt/baustelle
 out
 .yo-rc.json
 SNIPPETS
+*.3dm
