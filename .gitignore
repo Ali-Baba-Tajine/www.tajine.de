@@ -5,7 +5,6 @@ dist
 dev/bower_components
 dev/.server
 ABT_GURT.esproj
-dev
 *.txt
 BACKUP_DEV
 BUILDS
