@@ -3,3 +3,9 @@ node_js:
   - "0.11"
   - "0.10"
   - "0.8"
+notifications:
+  email:
+    recipients:
+      - travis@tajine.de
+    on_success: [change] # default: change
+    on_failure: [always] # default: always
