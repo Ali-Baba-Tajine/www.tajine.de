@@ -6,4 +6,6 @@ www.tajine.de
 
 [![Dependency Status](https://gemnasium.com/consolacao/tajine.de.svg)](https://gemnasium.com/consolacao/tajine.de)
 
-https://travis-ci.org/consolacao/tajine.de.svg?branch=master
+[![Build Status](https://travis-ci.org/consolacao/tajine.de.svg?branch=master)](https://travis-ci.org/consolacao/tajine.de)
+
+
