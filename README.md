@@ -1,8 +1,9 @@
 www.tajine.de
 =========
 
-## Ali Baba Tajine - Relauch
+# Ali Baba Tajine - Relauch
 
+## Dependencies Checkers
 
 [![Dependency Status](https://gemnasium.com/consolacao/tajine.de.svg)](https://gemnasium.com/consolacao/www.tajine.de)
 
