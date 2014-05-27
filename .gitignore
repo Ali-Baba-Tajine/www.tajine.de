@@ -1,0 +1,15 @@
+node_modules
+*.log
+dist
+.ftppass
+dev/bower_components
+dev/.server
+ABT_GURT.esproj
+dev
+*.txt
+BACKUP_DEV
+BUILDS
+grunt/baustelle
+out
+.yo-rc.json
+SNIPPETS
