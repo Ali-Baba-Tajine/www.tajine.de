@@ -2,10 +2,13 @@ language: node_js
 node_js:
   - "0.11"
   - "0.10"
-  - "0.8"
 notifications:
   email:
     recipients:
       - travis@tajine.de
-    on_success: [change] # default: change
-    on_failure: [always] # default: always
+    on_success: [change]
+    on_failure: [always]
+addons:
+  sauce_connect:
+    username: "consolacao"
+    access_key: "5bad1ec1-e828-49b1-a20f-bd2fb1a34961"
