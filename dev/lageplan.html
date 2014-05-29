@@ -8,13 +8,9 @@
   </head>
   <body>
     <div id="map"></div>
-    
-    
- <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
- 
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 <script>
- 
- 		var map = L.map('map').setView([47.8264733, 10.0988024], 7);
+  		var map = L.map('map').setView([47.8264733, 10.0988024], 7);
  
  		L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
  			maxZoom: 18,
@@ -40,8 +36,7 @@
  		}
  
  		map.on('click', onMapClick);
- 
- </script> 
+  </script> 
     <!--<script>
       L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
       	maxZoom: 20,
