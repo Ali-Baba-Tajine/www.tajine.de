@@ -1,18 +1,15 @@
 {
   "name": "ali-baba-tajine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
-    "jquery": "~2.1.1",
+    "jquery": "~2.1.x",
     "requirejs": "2.1.x",
     "modernizr": "2.x.x",
     "bootstrap": "3.1.1",
-    "lesshat": "3.0.0",
+    "lesshat": "3.x.x",
     "font-awesome": "4.x.x",
-    "html5shiv": "3.7.2",
-    "respond": "1.4.2"
+    "html5shiv": "3.7.x",
+    "respond": "1.4.x"
   },
-  "devDependencies": {},
-  "resolutions": {
-    "jquery": "~2.1.1"
-  }
+  "devDependencies": {}
 }
