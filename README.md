@@ -19,6 +19,17 @@ Der aktuelle Internetauftritt der Firma Ali Baba Tajine (www.tajine.de) entspric
 ### Aufgabenstellung | Tasks
 ### Recherche | Research
 ### Werkzeuge | Developer tools
+#### Top Level Domain
+* Platform: Node.js mit nvm, Ruby on Rails mit rvm
+* Paketverwaltung: Bower, npm
+* Scaffolding: Yeoman
+* Taskrunner: Grunt mit Livereload
+* HTML-Quellcode: Handlebars, Markdown, (Jade)
+* Testumgebung: Karma, SauceLabs
+
+
+#### Shop Domain
+* Platform: Shopware CE
 
 ### Design
 ### Fahrplan | Roadmap
