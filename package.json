@@ -44,7 +44,7 @@
     "grunt-uncss": "^0.3.3",
     "grunt-usemin": "2.1.x",
     "include-all": "0.1.x",
-    "jit-grunt": "0.6.x",
+    "jit-grunt": "0.7.x",
     "jshint-stylish": "0.2.x",
     "karma": "0.12.x",
     "karma-browserify": "0.2.x",
