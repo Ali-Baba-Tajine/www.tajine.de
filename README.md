@@ -18,6 +18,25 @@ Der aktuelle Internetauftritt der Firma Ali Baba Tajine (www.tajine.de) entspric
 
 ### Aufgabenstellung | Tasks
 ### Recherche | Research
+
+I was experimentating with the [hackathon-starter project](https://github.com/sahat/hackathon-starter) since March 2014 - version 0.0.0.
+This is a very fine kickstart for me and I intend to use it as a side project for my own site.
+
+In Germany there are not many providers who offer node.js hosting.
+Therefore I have to turn to deployment of static html (and .php) for commercial jobs. Nevertheless I use node.js (plus Grunt, Bower, etc.) for developing in the backend.
+I like the speed and the elegance of these modern tools. Today I visited [sahatyalkabov.com](http://sahatyalkabov.com/projects/). Great work!
+So I have to learn and test a lot to get similar things achieved.
+
+I am an visual artist by profession. Drawing and painting.
+But since 1990 I'm working on the Mac for earning money –
+(QuarkXPress, InDesign, Illustrator, Photoshop and so on  all Adobe).
+I was publishing with LaTeX, too. But the terminal was not my friend for many years. After I studied a lot of theory and tested many Open Source Solutions hosted on GitHub in the past year, I'm convinced now: working in GUI applications is not necessary for numerous jobs, it is comparatively slow, strongly limited to the product philosophy and expensive.
+But necessary for imaging and concrete visualization.
+
+This excursion was far too big for the beginning and so I must stop immediately.
+(I was writing an exposé just before, so I wrote the next chapter accidentally just in place.)
+
+
 ### Werkzeuge | Developer tools
 #### Top Level Domain
 * Platform: Node.js mit nvm, Ruby on Rails mit rvm
