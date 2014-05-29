@@ -13,14 +13,16 @@ DAVID-DM | GEMNASIUM | TRAVIS
 
 ## Projektbeschreibung
 
-### Ausgangslage
+### Ausgangslage | Starting situation
 Der aktuelle Internetauftritt der Firma Ali Baba Tajine (www.tajine.de) entspricht heute nicht mehr unseren Ansprüchen und schon gar nicht den Erfordernissen an eine benutzerfreundliche Oberfläche, die auf den verschiedensten aktuell gebräuchlichen Endgeräten (Desktops, Tablets, Mobile) funktioniert. Die letzte Hauptrevision der Site datiert aus dem Jahre 2007 und wurde seinerzeit mit der IDE Adobe GoLive CS1 (Version 7.0) initiert. Nach einer Zwischenphase, in der Wartungsarbeiten mittels Adobe GoLive CS2 (Version 8.0) erfolgten, beendete Adobe Systems Inc. im Jahre 2008 die Weiterentwicklung des Paketes und damit auch meine Arbeit an den Grundstrukturen der Website. Seit 2010 erfolgten die Aktualisierungen wahlweise in BBEdit, Textmate, Coda oder Espresso, je nachdem welche Editoren ich gerade testen wollte. Die originalen Layouts aus GoLive wurden allerdings seit 2007 nie mehr angetastet, da immer noch jede Menge propriäterer GoLive-Code residiert, der sich aus heutiger Sicht durch intransparente Implementierung und schlechte Qualität auszeichnet.
 
-### Aufgabenstellung
-### Recherche
-### Werkzeuge
+### Aufgabenstellung | Tasks
+### Recherche | Research
+### Werkzeuge | Developer tools
+
 ### Design
-### Fahrplan | Wishlist
+### Fahrplan | Roadmap
+### Weitere Verbesserungen | Wishlist
 ### Copyright und Lizenz
 
 
