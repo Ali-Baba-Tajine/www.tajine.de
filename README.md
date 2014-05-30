@@ -29,7 +29,7 @@ So I have to learn and test a lot to get similar things achieved.
 
 I am an visual artist by profession. Drawing and painting.
 But since 1990 I'm working on the Mac for earning money –
-(QuarkXPress, InDesign, Illustrator, Photoshop and so on  all Adobe).
+(QuarkXPress, InDesign, Illustrator, Photoshop and so on – all the Adobe Bullshit).
 I was publishing with LaTeX, too. But the terminal was not my friend for many years. After I studied a lot of theory and tested many Open Source Solutions hosted on GitHub in the past year, I'm convinced now: working in GUI applications is not necessary for numerous jobs, it is comparatively slow, strongly limited to the product philosophy and expensive.
 But necessary for imaging and concrete visualization.
 
@@ -40,10 +40,9 @@ This excursion was far too big for the beginning and so I must stop immediately.
 ### Werkzeuge | Developer tools
 #### Top Level Domain
 * Platform: [Node.js](http://nodejs.org]) mit [nvm](https://github.com/creationix/nvm), [Ruby on Rails](http://rubyonrails.org) mit [rvm](https://rvm.io)
-* Paketverwaltung: [Bower](http://bower.io), [npm](https://www.npmjs.org)
-* Scaffolding: [Yeoman](http://yeoman.io)
-* Taskrunner: [Grunt](http://gruntjs.com)
-* HTML-Quellcode: [Handlebars](http://handlebarsjs.com), [Markdown](http://daringfireball.net/projects/markdown/), ([Jade](http://jade-lang.com))
+* Paketverwaltung: [Homebrew](http://brew.sh), [Composer](https://getcomposer.org), [Bower](http://bower.io), [npm](https://www.npmjs.org), [gem](https://rubygems.org)
+* Scaffolding and Building: [Yeoman](http://yeoman.io), [Jekyll](https://github.com/jekyll), [Grunt](http://gruntjs.com)
+* Templating, Quellcode: [Handlebars](http://handlebarsjs.com), [Markdown](http://daringfireball.net/projects/markdown/), ([Jade](http://jade-lang.com))
 * Testing: [Karma](https://github.com/karma-runner), [Sauce Labs](https://github.com/saucelabs)
 
 
