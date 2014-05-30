@@ -14,7 +14,7 @@ DAVID-DM | GEMNASIUM | TRAVIS
 ## Projektbeschreibung
 
 ### Ausgangslage | Starting situation
-Der aktuelle Internetauftritt der Firma Ali Baba Tajine (www.tajine.de) entspricht heute nicht mehr unseren Ansprüchen und schon gar nicht den Erfordernissen an eine benutzerfreundliche Oberfläche, die auf den verschiedensten aktuell gebräuchlichen Endgeräten (Desktops, Tablets, Mobile) funktioniert. Die letzte Hauptrevision der Site datiert aus dem Jahre 2007 und wurde seinerzeit mit der IDE Adobe GoLive CS1 (Version 7.0) initiert. Nach einer Zwischenphase, in der Wartungsarbeiten mittels Adobe GoLive CS2 (Version 8.0) erfolgten, beendete Adobe Systems Inc. im Jahre 2008 die Weiterentwicklung des Paketes und damit auch meine Arbeit an den Grundstrukturen der Website. Seit 2010 erfolgten die Aktualisierungen wahlweise in BBEdit, Textmate, Coda oder Espresso, je nachdem welche Editoren ich gerade testen wollte. Die originalen Layouts aus GoLive wurden allerdings seit 2007 nie mehr angetastet, da immer noch jede Menge propriäterer GoLive-Code residiert, der sich aus heutiger Sicht durch intransparente Implementierung und schlechte Qualität auszeichnet.
+Der aktuelle Internetauftritt der Firma Ali Baba Tajine [www.tajine.de](http://www.tajine.de) entspricht heute nicht mehr unseren Ansprüchen und schon gar nicht den Erfordernissen an eine benutzerfreundliche Oberfläche, die auf den verschiedensten aktuell gebräuchlichen Endgeräten (Desktops, Tablets, Mobile) funktioniert. Die letzte Hauptrevision der Site datiert aus dem Jahre 2007 und wurde seinerzeit mit der [IDE Adobe GoLive CS1 (Version 7.0)](https://en.wikipedia.org/wiki/Adobe_GoLive) initiert. Nach einer Zwischenphase, in der Wartungsarbeiten mittels [Adobe GoLive CS2 (Version 8.0)](http://www.adobe.com/de/products/golive/overview.html) erfolgten, beendete Adobe Systems Inc. im Jahre 2008 die Weiterentwicklung des Paketes und damit auch meine Arbeit an den Grundstrukturen der Website. Seit 2010 erfolgten die Aktualisierungen wahlweise in [BBEdit](http://www.barebones.com/products/bbedit/), [Textmate](http://macromates.com), [Coda](http://www.panic.com/coda/) oder [Espresso](http://macrabbit.com/espresso/), je nachdem welche Editoren ich gerade testen wollte. Die originalen Layouts aus GoLive wurden allerdings seit 2007 nie mehr angetastet, da immer noch jede Menge [propriäterer GoLive-Code](http://www.oreillynet.com/pub/a/javascript/2002/04/26/golive_history.html) residiert, der sich aus heutiger Sicht durch intransparente Implementierung und schlechte Qualität auszeichnet.
 
 ### Aufgabenstellung | Tasks
 ### Recherche | Research
@@ -39,16 +39,16 @@ This excursion was far too big for the beginning and so I must stop immediately.
 
 ### Werkzeuge | Developer tools
 #### Top Level Domain
-* Platform: Node.js mit nvm, Ruby on Rails mit rvm
-* Paketverwaltung: Bower, npm
-* Scaffolding: Yeoman
-* Taskrunner: Grunt mit Livereload
-* HTML-Quellcode: Handlebars, Markdown, (Jade)
-* Testumgebung: Karma, SauceLabs
+* Platform: [Node.js](http://nodejs.org]) mit [nvm](https://github.com/creationix/nvm), [Ruby on Rails](http://rubyonrails.org) mit [rvm](https://rvm.io)
+* Paketverwaltung: [Bower](http://bower.io), [npm](https://www.npmjs.org)
+* Scaffolding: [Yeoman](http://yeoman.io)
+* Taskrunner: [Grunt](http://gruntjs.com)
+* HTML-Quellcode: [Handlebars](http://handlebarsjs.com), [Markdown](http://daringfireball.net/projects/markdown/), ([Jade](http://jade-lang.com))
+* Testing: [Karma](https://github.com/karma-runner), [Sauce Labs](https://github.com/saucelabs)
 
 
 #### Shop Domain
-* Platform: Shopware CE
+* Platform: [Shopware CE](https://github.com/ShopwareAG)
 
 ### Design
 ### Fahrplan | Roadmap
@@ -56,4 +56,4 @@ This excursion was far too big for the beginning and so I must stop immediately.
 ### Copyright und Lizenz
 
 
-Stand: 29. Mai 2014
+Stand: 30. Mai 2014
