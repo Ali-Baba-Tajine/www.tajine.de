@@ -14,3 +14,5 @@ SNIPPETS
 *.3dm
 dev/ERRORSEITEN_TRASH
 NOT_INTEGRATED
+test
+*.espressostorage
