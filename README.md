@@ -50,6 +50,7 @@ This excursion was far too big for the beginning and so I must stop immediately.
 * Platform: [Shopware CE](https://github.com/ShopwareAG)
 
 ### Design
+Big text, Big photos
 ### Fahrplan | Roadmap
 ### Weitere Verbesserungen | Wishlist
 ### Copyright und Lizenz
