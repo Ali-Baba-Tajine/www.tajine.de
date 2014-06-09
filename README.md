@@ -9,7 +9,7 @@ www.tajine.de
 ## Dependencies and Compilation Checkers
 DAVID-DM | GEMNASIUM | TRAVIS
 --- | --- | ---
-[![Dependency Status](https://david-dm.org/consolacao/www.tajine.de.png?theme=shields.io)](https://david-dm.org/consolacao/www.tajine.de) | [![Dependency Status](https://gemnasium.com/consolacao/www.tajine.de.svg)](https://gemnasium.com/consolacao/www.tajine.de) | [![Build Status](https://travis-ci.org/consolacao/www.tajine.de.svg?branch=master)](https://travis-ci.org/consolacao/www.tajine.de)
+[![Dependency Status](https://david-dm.org/Ali-Baba-Tajine/www.tajine.de.png?theme=shields.io)](https://david-dm.org/Ali-Baba-Tajine/www.tajine.de) | [![Dependency Status](https://gemnasium.com/Ali-Baba-Tajine/www.tajine.de.svg)](https://gemnasium.com/Ali-Baba-Tajine/www.tajine.de) | [![Build Status](https://travis-ci.org/Ali-Baba-Tajine/www.tajine.de.svg?branch=master)](https://travis-ci.org/Ali-Baba-Tajine/www.tajine.de)
 
 ## Projektbeschreibung
 
