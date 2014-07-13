@@ -16,3 +16,5 @@ dev/ERRORSEITEN_TRASH
 NOT_INTEGRATED
 test
 *.espressostorage
+
+.DS_Store
